@@ -1,6 +1,4 @@
-# Shanks Touché - IR Project 
-
-This is the Golden Retrieval group's repository for the homework of the Search Engines course at DEI - Department of Information Engineering, University of Padua, Italy.
+# Shanks Touché - IR Project - Touché 2021
 
 ## Team Member
 - Andrea Cassetta - andrea.cassetta@studenti.unipd.it
