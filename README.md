@@ -2,7 +2,7 @@
 
 ## Team Member
 - Andrea Cassetta - andrea.cassetta@studenti.unipd.it
-- Alberto Piva - alberto.piva.8@studenti.unipd.it
+- Alberto Piva - albertopiva97@gmail.com
 - Enrico Vicentini - enrico.vicentini.1@studenti.unipd.it
 
 ## How to run
